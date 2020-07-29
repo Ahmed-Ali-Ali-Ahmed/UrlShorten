@@ -1,0 +1,17 @@
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\Shortnr.Web.Data.dll.config
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\Shortnr.Web.Data.dll
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\Shortnr.Web.Data.pdb
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\EntityFramework.dll
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\Shortnr.Web.Entities.dll
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\Shortnr.Web.Entities.pdb
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\Shortnr.Web.Entities.dll.config
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\EntityFramework.xml
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.csprojAssemblyReference.cache
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.Migrations.InitialCreate.resources
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.csproj.GenerateResource.cache
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.csproj.CoreCompileInputs.cache
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.csproj.CopyComplete
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.dll
+C:\Users\looki\source\repos\Url Shoteter\Shortnr.Web.Data\obj\Debug\Shortnr.Web.Data.pdb
